@@ -1,0 +1,27 @@
+.contenair{
+    background-color: rgb(126, 118, 118);
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 50vh;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.contenair table{
+    border: 1px solid black;
+    width: 80%;
+    height: 25%;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
